@@ -1,0 +1,9 @@
+1.Renamed globalNaming resources from Server.xml - tomcat - lafatgeholcim
+2.Check PropertyEncryptor.sh for lafargeholcim
+3.Check why it is pointing to u01
+Reference
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+java.io.FileNotFoundException: /u01/GA/config/CommonEncrypted.properties (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
