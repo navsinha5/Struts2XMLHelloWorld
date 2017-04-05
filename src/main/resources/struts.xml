@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE struts PUBLIC
     "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
-    "/Users/LIFE/workspace/Struts2XMLHelloWorld/WebContent/WEB-INF/dtds/struts-2.3.dtd">
+    "/Github/Struts2XMLHelloWorld/WebContent/WEB-INF/dtds/struts-2.3.dtd">
 <struts>
  
 <package name="user" namespace="/" extends="struts-default">
